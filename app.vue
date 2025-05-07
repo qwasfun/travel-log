@@ -9,6 +9,7 @@
     </button>
     <button class="btn btn-primary">
       Primary
+      <Icon name="tabler:map" />
     </button>
   </div>
 </template>
